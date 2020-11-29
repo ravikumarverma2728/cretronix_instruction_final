@@ -229,6 +229,9 @@ img{
     width: 26vw;
     height: 7vh;
 }
+footer{
+    margin-top: 3vh;
+}
 
 }
 @media (min-width: 768px){
