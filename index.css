@@ -94,6 +94,10 @@ img{
 
    
 }
+
+
+
+
 @media (max-width: 321px){
 .box {
     
@@ -187,9 +191,9 @@ img{
 .box {
     margin-left: 6.4vw;
     padding: 0;
-    margin-top: 3vh;
+    margin-top: 2vh;
     background:#002244;
-    height: 69vh;
+    height: 70vh;
     border: 0px;
     font-family: sans-serif;
     background-color:  rgba(0,0,0,0.8);
@@ -198,7 +202,7 @@ img{
     border-radius: 15px;
 }
 .bar {
-    font: 16px sans-serif;
+    font: 1rem sans-serif;
     margin-left: 10vw;
 }
 .box .card-body{
@@ -218,17 +222,18 @@ img{
     border: 1px solid grey;
     background: linear-gradient(-180deg,#00AACC,#001122);
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 1);
-    margin-top: 2.6vh;
+    margin-top: 2vh;
     border-radius: 10px;
     color: white;
     outline-style: none;
     width: 26vw;
-    height: 6.1vh;
+    height: 7vh;
 }
+
 }
 @media (min-width: 768px){
 .box {
-    margin-left: 5.7vw;
+    margin-left: 8vw;
     padding: 0;
     margin-top: 3vh;
     background:#002244;
@@ -253,7 +258,7 @@ h3{
 }
 @media (min-width: 1024px){
 .box {
-    margin-left: 7vw;
+    margin-left: 8.4vw;
     padding: 0;
     margin-top: 5vh;
     background:#002244;
@@ -290,7 +295,7 @@ h3{
 @media (min-width: 1200px){
     .box {
     
-    margin-left: 12.3vw;
+    margin-left: 13.7vw;
     padding: 0;
     margin-top: 3vh;
     background:#002244;
@@ -323,7 +328,7 @@ h3{
 @media (min-width: 1400px){
     .box {
     
-    margin-left: 12.3vw;
+    margin-left: 14.1vw;
     padding: 0;
     margin-top: 5vh;
     background:#002244;
@@ -374,7 +379,7 @@ img{
 @media (min-width: 1700px){
     .box {
     
-    margin-left: 13vw;
+    margin-left: 14.2vw;
     padding: 0;
     margin-top: 5vh;
     background:#002244;
@@ -425,7 +430,7 @@ img{
 @media (min-width: 1800px){
     .box {
     
-    margin-left: 13.2vw;
+    margin-left: 14.3vw;
     padding: 0;
     margin-top: 5vh;
     background:#002244;
@@ -476,7 +481,7 @@ img{
 @media (min-width: 1920px){
     .box {
     
-    margin-left: 13vw;
+    margin-left: 14.3vw;
     padding: 0;
     margin-top: 6vh;
     background:#002244;
