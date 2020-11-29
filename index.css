@@ -94,6 +94,13 @@ img{
 
    
 }
+@media (max-width: 768px){
+.fixed-bottom { 
+position: relative; 
+   
+       }
+
+}
 
 
 
@@ -228,9 +235,6 @@ img{
     outline-style: none;
     width: 26vw;
     height: 7vh;
-}
-footer{
-    margin-top: 3vh;
 }
 
 }
