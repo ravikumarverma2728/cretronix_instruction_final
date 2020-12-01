@@ -192,9 +192,9 @@ img{
 .box {
     margin-left: 6.4vw;
     padding: 0;
-    margin-top: 3vh;
+    margin-top: 3.5vh;
     background:#002244;
-    height: 75vh;
+    height: 72.2vh;
     border: 0px;
     font-family: sans-serif;
     background-color:  rgba(0,0,0,0.8);
@@ -223,17 +223,17 @@ img{
     border: 1px solid grey;
     background: linear-gradient(-180deg,#00AACC,#001122);
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 1);
-    margin-top: 2vh;
+    margin-top: 2.5vh;
     border-radius: 10px;
     color: white;
     outline-style: none;
     width: 25vw;
-    height: 7vh;
+    height: 6vh;
     padding-top: 0px;
     
 }
 footer{
-    margin-top: 1vh;
+    margin-top: 3vh;
 }
 }
 @media (max-width: 768px){
