@@ -192,7 +192,7 @@ img{
 .box {
     margin-left: 6.4vw;
     padding: 0;
-    margin-top: 0.5vh;
+    margin-top: 0.7vh;
     background:#002244;
     height: 57vh;
     border: 0px;
@@ -223,18 +223,16 @@ img{
     border: 1px solid grey;
     background: linear-gradient(-180deg,#00AACC,#001122);
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 1);
-    margin-top: 0.2vh;
+    margin-top: 0.4vh;
     border-radius: 10px;
     color: white;
     outline-style: none;
     width: 25vw;
     height: 3.5vh;
     padding-top: 0px;
-    padding-bottom: 2vh;
+    
 }
-footer{
-    margin-top:1vh; 
-}
+
 
 }
 @media (min-width: 768px){
