@@ -192,9 +192,9 @@ img{
 .box {
     margin-left: 6.4vw;
     padding: 0;
-    margin-top: 4vh;
+    margin-top: 1.5vh;
     background:#002244;
-    height: 57vh;
+    height: 68vh;
     border: 0px;
     font-family: sans-serif;
     background-color:  rgba(0,0,0,0.8);
@@ -223,12 +223,12 @@ img{
     border: 1px solid grey;
     background: linear-gradient(-180deg,#00AACC,#001122);
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 1);
-    margin-top: 1vh;
+    margin-top: 1.3vh;
     border-radius: 10px;
     color: white;
     outline-style: none;
     width: 25vw;
-    height: 4vh;
+    height: 6.2vh;
     padding-top: 0px;
     
 }
